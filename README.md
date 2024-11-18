@@ -1,4 +1,4 @@
-##Fraud_Detection_System
+Fraud Detection System
 
 This project implements a machine learning-based system to detect fraudulent activities in datasets. By analyzing patterns in the data, it helps in identifying and classifying fraudulent transactions.
 
